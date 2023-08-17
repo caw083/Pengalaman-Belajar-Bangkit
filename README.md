@@ -7,3 +7,7 @@ Respitory ini Berisi Pengalaman Belajarku di Bangkit
 * Belajar Dasar Git dengan GitHub                                (35%)
 
 
+18 Agustus 2023
+*  Google IT Automation (Crash Course on Python)
+*  Google IT Automation (Using Python to Interact with OS)
+*  Google IT Automation (Intro to Git and Github)
